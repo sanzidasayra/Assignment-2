@@ -268,7 +268,8 @@
     background-color: #3CD8E8;
     border-radius: 47.9px;
     position: relative;
-    right: 510px;
+    right: -30px;
+    top: -27px;
 }
 .story-title{
     font-weight: bold;
@@ -282,12 +283,94 @@
     font-size: 0.96rem;
     color: #666666;
     padding-left: 38px;
+    padding-bottom: 34px;
 }
 .story-img{
     border-radius: 15px 15px 0 0;
 }
-
-
+.story-btn2{
+    padding: 10px 18px;
+    font-weight: 500;
+    font-size: 0.96rem;
+    color: white;
+    background-color: #95B226;
+    border: 1px solid #95B226;
+    border-radius: 47.93px;
+    position: relative;
+    right: 260px;
+}
+.story-btn3{
+    padding: 10px 18px;
+    font-weight: 500;
+    font-size: 0.96rem;
+    color: white;
+    background-color: #5D58F0;
+    border: 1px solid #5D58F0;
+    border-radius: 47.93px;
+    position: relative;
+    right: 260px;
+}
+.story-btn4{
+    padding: 10px 18px;
+    font-weight: 500;
+    font-size: 0.96rem;
+    color: white;
+    background-color: #95B226;
+    border: 1px solid #95B226;
+    border-radius: 47.93px;
+    position: relative;
+    right: 260px;
+}
+.story-btn5{
+    padding: 10px 18px;
+    font-weight: 500;
+    font-size: 0.96rem;
+    color: white;
+    background-color: #95B226;
+    border: 1px solid #95B226;
+    border-radius: 47.93px;
+    position: relative;
+    right: 260px;
+}
+.story-title1{
+    font-weight: bold;
+    font-size: 0.96rem;
+    padding-top: 23px;
+    padding-bottom: 33px;
+    padding-left: 37px;
+}
+.story-title2{
+    font-weight: bold;
+    font-size: 0.96rem;
+    padding-top: 23px;
+    padding-bottom: 33px;
+    padding-left: 37px;
+}
+.story-title3{
+    font-weight: bold;
+    font-size: 0.96rem;
+    padding-top: 23px;
+    padding-bottom: 33px;
+    padding-left: 37px;
+}
+.story-title4{
+    font-weight: bold;
+    font-size: 0.96rem;
+    padding-top: 23px;
+    padding-bottom: 33px;
+    padding-left: 37px;
+}
+.story-parrent{
+    
+}
+.section3 {
+    background-color: #FFF4DC;
+}
+.bg-card-1{
+    background-color: white;
+    width: min-content;
+    border-radius: 16px;
+}
 
 /* footer style */
 .footer-logo{
