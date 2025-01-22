@@ -140,7 +140,7 @@
 /* standard curriculam style */
 
 .section2{
-    background-image: url('/assets/bg.png');
+    background-image: url('../assets/bg.png');
     text-align: center;
     
 }
@@ -259,7 +259,7 @@
     font-size: 2.87rem;
     text-align: center;
     padding-bottom: 80px;
-    background-image: url('/assets/bg.png');
+    background-image: url('../assets/bg.png');
 }
 .story-btn1{
     padding: 14px 18px;
@@ -452,7 +452,7 @@
     
 }
 .story-btn-parent{
-    background-image: url('/assets/bg.png');
+    background-image: url('../assets/bg.png');
     display: flex;
     justify-content: center;
 }
