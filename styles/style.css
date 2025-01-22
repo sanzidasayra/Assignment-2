@@ -150,8 +150,10 @@
     gap: 28px;
     margin-left: 140px;
     margin-right: 140px;
-   
-    
+}
+.right-btn:hover{
+    cursor: pointer;
+    background-color: brown;
 }
 .standard-sec{
     border: 1px solid #DEF5FF;
@@ -624,11 +626,9 @@
         margin-right: 0px;
      
     }
-    .card-title{
-        font-weight: bold;
-        font-size: 1.03rem;
-        text-align: center;
-        padding-bottom: 33px;
+    .right-btn{
+        display: none;
+
     }
     .card-des{
         font-weight: 500;
@@ -831,6 +831,13 @@
         padding-top: 14px;
         padding-bottom: 19px;
         padding-left: 22px;
+    }
+    .story-heading{
+        font-weight: bold;
+        font-size: 1.625rem;
+        text-align: center;
+        padding-bottom: 20px;
+       
     }
     
  }
