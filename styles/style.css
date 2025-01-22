@@ -241,7 +241,7 @@
     border: 1px solid #FEA301;
     background-color: #FEA301;
 }
-.button{
+.button-right{
     display: flex;
     justify-content: center;
     margin-top: 80px;
@@ -273,7 +273,7 @@
 }
 .story-title{
     font-weight: bold;
-    font-size: 1.5rem;
+     font-size: 1.5rem;
     padding-top: 36px;
     padding-bottom: 51px;
     padding-left: 38px;
@@ -720,4 +720,96 @@
     .right-img-single {
         margin-left:  21px;
     }
-}
+    .bg-card-1{
+        display: none;
+    }
+    .cards-4{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0px 10px;
+    }
+    .mobile {
+        height: auto;
+        width: 100%;
+        object-fit:cover;
+        margin-left: 16px;
+        margin-right: 16;
+    }
+    .story-btn2{
+        padding: 5px 11px;
+        font-weight: 500;
+        font-size: 0.57rem;
+        border-radius: 28.5px;
+        position: relative;
+        top: -18px;   
+    }
+    .story-btn3{
+        padding: 5px 11px;
+        font-weight: 500;
+        font-size: 0.57rem;
+        border-radius: 28.5px;
+        position: relative;
+        top: -18px;
+    }
+    .story-btn4{
+        padding: 5px 11px;
+        font-weight: 500;
+        font-size: 0.57rem;
+        border-radius: 28.5px;
+        position: relative;
+        top: -18px;
+    }
+    .story-btn5{
+        padding: 5px 11px;
+        font-weight: 500;
+        font-size: 0.57rem;
+        border-radius: 28.5px;
+        position: relative;
+        top: -18px;
+    }
+    .story-title1{
+        font-weight: bold;
+         font-size: 0.57rem;
+        padding-top: 0px;
+        padding-bottom: 19px;
+        padding-left: 22px;
+    }
+    .story-title2{
+        font-weight: bold;
+         font-size: 0.57rem;
+        padding-top: 0px;
+        padding-bottom: 19px;
+        padding-left: 22px;
+    }
+    .story-title3{
+        font-weight: bold;
+         font-size: 0.57rem;
+        padding-top: 0px;
+        padding-bottom: 19px;
+        padding-left: 22px;
+    }
+    .story-title4{
+        font-weight: bold;
+         font-size: 0.57rem;
+        padding-top: 0px;
+        padding-bottom: 19px;
+        padding-left: 22px;
+    }
+     .story-btn{
+            padding: 15px 60px;
+            font-weight: bold;
+            font-size: 1rem;
+            color: white;
+            background-color: black;
+            border: 1px solid black;
+            border-radius: 18px;
+        }
+        .flex-for-card{
+            display: flex;
+            gap:0px;
+            justify-content: center;
+        }   
+    
+ }
+
+    
